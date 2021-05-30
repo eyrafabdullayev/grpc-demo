@@ -1,0 +1,6 @@
+rootProject.name = 'grpc-demo'
+include 'simple-grpc-server'
+include 'simple-grpc-client'
+include 'chat-server'
+include 'chat-javafx-client'
+
